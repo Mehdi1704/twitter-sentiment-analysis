@@ -10,7 +10,7 @@ keywords = 'call of duty lag '
 def twitter_analyzer(keywords, count):
 
     #URL and token
-    twitter_bearer_token = "AAAAAAAAAAAAAAAAAAAAAN1ThgEAAAAAFG0Wban3gw3%2BW%2BUOvBwxWGqyImw%3DvilUGeOnfgXk8RCOnFyRT9k3sublul2Hlwp5YTKhKRMXolnhzS"
+    twitter_bearer_token = ""
     url = "https://api.twitter.com/2/tweets/search/recent"
     
     #Parameters to query
