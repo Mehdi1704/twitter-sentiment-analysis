@@ -22,7 +22,7 @@ def init_params():
 
     games_array = ["((call of duty) OR (cod)) ","league of legends ","((dota) OR (dota 2)) " ,"genshin impact ","warzone "]
 
-    twitter_bearer_token = "AAAAAAAAAAAAAAAAAAAAAN1ThgEAAAAAFG0Wban3gw3%2BW%2BUOvBwxWGqyImw%3DvilUGeOnfgXk8RCOnFyRT9k3sublul2Hlwp5YTKhKRMXolnhzS"
+    twitter_bearer_token = ""
 
     url = "https://api.twitter.com/2/tweets/search/recent"
 
